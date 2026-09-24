@@ -1,0 +1,1430 @@
+[
+  {
+    "name": "iPad 10th Gen",
+    "slug": "ipad-10th-gen",
+    "brand": "Apple",
+    "model": "iPad 10th Gen",
+    "image_url": "apple_ipad_10th_gen_blue.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 10th Gen in Blue color",
+    "attributes": {
+      "color": "Blue"
+    }
+  },
+  {
+    "name": "iPad 10th Gen",
+    "slug": "ipad-10th-gen",
+    "brand": "Apple",
+    "model": "iPad 10th Gen",
+    "image_url": "apple_ipad_10th_gen_pink.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 10th Gen in Pink color",
+    "attributes": {
+      "color": "Pink"
+    }
+  },
+  {
+    "name": "iPad 10th Gen",
+    "slug": "ipad-10th-gen",
+    "brand": "Apple",
+    "model": "iPad 10th Gen",
+    "image_url": "apple_ipad_10th_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 10th Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad 10th Gen",
+    "slug": "ipad-10th-gen",
+    "brand": "Apple",
+    "model": "iPad 10th Gen",
+    "image_url": "apple_ipad_10th_gen_yellow.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 10th Gen in Yellow color",
+    "attributes": {
+      "color": "Yellow"
+    }
+  },
+  {
+    "name": "iPad 11th A16",
+    "slug": "ipad-11th-a16",
+    "brand": "Apple",
+    "model": "iPad 11th A16",
+    "image_url": "apple_ipad_11th_a16_blue.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 11th A16 in Blue color",
+    "attributes": {
+      "color": "Blue"
+    }
+  },
+  {
+    "name": "iPad 11th A16",
+    "slug": "ipad-11th-a16",
+    "brand": "Apple",
+    "model": "iPad 11th A16",
+    "image_url": "apple_ipad_11th_a16_pink.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 11th A16 in Pink color",
+    "attributes": {
+      "color": "Pink"
+    }
+  },
+  {
+    "name": "iPad 11th A16",
+    "slug": "ipad-11th-a16",
+    "brand": "Apple",
+    "model": "iPad 11th A16",
+    "image_url": "apple_ipad_11th_a16_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 11th A16 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad 11th A16",
+    "slug": "ipad-11th-a16",
+    "brand": "Apple",
+    "model": "iPad 11th A16",
+    "image_url": "apple_ipad_11th_a16_yellow.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 11th A16 in Yellow color",
+    "attributes": {
+      "color": "Yellow"
+    }
+  },
+  {
+    "name": "iPad 5th Gen",
+    "slug": "ipad-5th-gen",
+    "brand": "Apple",
+    "model": "iPad 5th Gen",
+    "image_url": "apple_ipad_5th_gen_gold.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 5th Gen in Gold color",
+    "attributes": {
+      "color": "Gold"
+    }
+  },
+  {
+    "name": "iPad 5th Gen",
+    "slug": "ipad-5th-gen",
+    "brand": "Apple",
+    "model": "iPad 5th Gen",
+    "image_url": "apple_ipad_5th_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 5th Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad 5th Gen",
+    "slug": "ipad-5th-gen",
+    "brand": "Apple",
+    "model": "iPad 5th Gen",
+    "image_url": "apple_ipad_5th_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 5th Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad 6th Gen",
+    "slug": "ipad-6th-gen",
+    "brand": "Apple",
+    "model": "iPad 6th Gen",
+    "image_url": "apple_ipad_6th_gen_gold.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 6th Gen in Gold color",
+    "attributes": {
+      "color": "Gold"
+    }
+  },
+  {
+    "name": "iPad 6th Gen",
+    "slug": "ipad-6th-gen",
+    "brand": "Apple",
+    "model": "iPad 6th Gen",
+    "image_url": "apple_ipad_6th_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 6th Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad 6th Gen",
+    "slug": "ipad-6th-gen",
+    "brand": "Apple",
+    "model": "iPad 6th Gen",
+    "image_url": "apple_ipad_6th_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 6th Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad 7th Gen",
+    "slug": "ipad-7th-gen",
+    "brand": "Apple",
+    "model": "iPad 7th Gen",
+    "image_url": "apple_ipad_7th_gen_gold.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 7th Gen in Gold color",
+    "attributes": {
+      "color": "Gold"
+    }
+  },
+  {
+    "name": "iPad 7th Gen",
+    "slug": "ipad-7th-gen",
+    "brand": "Apple",
+    "model": "iPad 7th Gen",
+    "image_url": "apple_ipad_7th_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 7th Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad 7th Gen",
+    "slug": "ipad-7th-gen",
+    "brand": "Apple",
+    "model": "iPad 7th Gen",
+    "image_url": "apple_ipad_7th_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 7th Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad 8th Gen",
+    "slug": "ipad-8th-gen",
+    "brand": "Apple",
+    "model": "iPad 8th Gen",
+    "image_url": "apple_ipad_8th_gen_gold.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 8th Gen in Gold color",
+    "attributes": {
+      "color": "Gold"
+    }
+  },
+  {
+    "name": "iPad 8th Gen",
+    "slug": "ipad-8th-gen",
+    "brand": "Apple",
+    "model": "iPad 8th Gen",
+    "image_url": "apple_ipad_8th_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 8th Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad 8th Gen",
+    "slug": "ipad-8th-gen",
+    "brand": "Apple",
+    "model": "iPad 8th Gen",
+    "image_url": "apple_ipad_8th_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 8th Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad 9th Gen",
+    "slug": "ipad-9th-gen",
+    "brand": "Apple",
+    "model": "iPad 9th Gen",
+    "image_url": "apple_ipad_9th_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 9th Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad 9th Gen",
+    "slug": "ipad-9th-gen",
+    "brand": "Apple",
+    "model": "iPad 9th Gen",
+    "image_url": "apple_ipad_9th_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad 9th Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Air 11 M2",
+    "slug": "ipad-air-11-m2",
+    "brand": "Apple",
+    "model": "iPad Air 11 M2",
+    "image_url": "apple_ipad_air_11_m2_blue.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 11 M2 in Blue color",
+    "attributes": {
+      "color": "Blue"
+    }
+  },
+  {
+    "name": "iPad Air 11 M2",
+    "slug": "ipad-air-11-m2",
+    "brand": "Apple",
+    "model": "iPad Air 11 M2",
+    "image_url": "apple_ipad_air_11_m2_purple.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 11 M2 in Purple color",
+    "attributes": {
+      "color": "Purple"
+    }
+  },
+  {
+    "name": "iPad Air 11 M2",
+    "slug": "ipad-air-11-m2",
+    "brand": "Apple",
+    "model": "iPad Air 11 M2",
+    "image_url": "apple_ipad_air_11_m2_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 11 M2 in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Air 11 M2",
+    "slug": "ipad-air-11-m2",
+    "brand": "Apple",
+    "model": "iPad Air 11 M2",
+    "image_url": "apple_ipad_air_11_m2_starlight.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 11 M2 in Starlight color",
+    "attributes": {
+      "color": "Starlight"
+    }
+  },
+  {
+    "name": "iPad Air 11 M3",
+    "slug": "ipad-air-11-m3",
+    "brand": "Apple",
+    "model": "iPad Air 11 M3",
+    "image_url": "apple_ipad_air_11_m3_blue.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 11 M3 in Blue color",
+    "attributes": {
+      "color": "Blue"
+    }
+  },
+  {
+    "name": "iPad Air 11 M3",
+    "slug": "ipad-air-11-m3",
+    "brand": "Apple",
+    "model": "iPad Air 11 M3",
+    "image_url": "apple_ipad_air_11_m3_purple.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 11 M3 in Purple color",
+    "attributes": {
+      "color": "Purple"
+    }
+  },
+  {
+    "name": "iPad Air 11 M3",
+    "slug": "ipad-air-11-m3",
+    "brand": "Apple",
+    "model": "iPad Air 11 M3",
+    "image_url": "apple_ipad_air_11_m3_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 11 M3 in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Air 11 M3",
+    "slug": "ipad-air-11-m3",
+    "brand": "Apple",
+    "model": "iPad Air 11 M3",
+    "image_url": "apple_ipad_air_11_m3_starlight.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 11 M3 in Starlight color",
+    "attributes": {
+      "color": "Starlight"
+    }
+  },
+  {
+    "name": "iPad Air 11 M4",
+    "slug": "ipad-air-11-m4",
+    "brand": "Apple",
+    "model": "iPad Air 11 M4",
+    "image_url": "apple_ipad_air_11_m4_blue.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 11 M4 in Blue color",
+    "attributes": {
+      "color": "Blue"
+    }
+  },
+  {
+    "name": "iPad Air 11 M4",
+    "slug": "ipad-air-11-m4",
+    "brand": "Apple",
+    "model": "iPad Air 11 M4",
+    "image_url": "apple_ipad_air_11_m4_purple.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 11 M4 in Purple color",
+    "attributes": {
+      "color": "Purple"
+    }
+  },
+  {
+    "name": "iPad Air 11 M4",
+    "slug": "ipad-air-11-m4",
+    "brand": "Apple",
+    "model": "iPad Air 11 M4",
+    "image_url": "apple_ipad_air_11_m4_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 11 M4 in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Air 11 M4",
+    "slug": "ipad-air-11-m4",
+    "brand": "Apple",
+    "model": "iPad Air 11 M4",
+    "image_url": "apple_ipad_air_11_m4_starlight.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 11 M4 in Starlight color",
+    "attributes": {
+      "color": "Starlight"
+    }
+  },
+  {
+    "name": "iPad Air 13 M2",
+    "slug": "ipad-air-13-m2",
+    "brand": "Apple",
+    "model": "iPad Air 13 M2",
+    "image_url": "apple_ipad_air_13_m2_blue.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 13 M2 in Blue color",
+    "attributes": {
+      "color": "Blue"
+    }
+  },
+  {
+    "name": "iPad Air 13 M2",
+    "slug": "ipad-air-13-m2",
+    "brand": "Apple",
+    "model": "iPad Air 13 M2",
+    "image_url": "apple_ipad_air_13_m2_purple.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 13 M2 in Purple color",
+    "attributes": {
+      "color": "Purple"
+    }
+  },
+  {
+    "name": "iPad Air 13 M2",
+    "slug": "ipad-air-13-m2",
+    "brand": "Apple",
+    "model": "iPad Air 13 M2",
+    "image_url": "apple_ipad_air_13_m2_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 13 M2 in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Air 13 M2",
+    "slug": "ipad-air-13-m2",
+    "brand": "Apple",
+    "model": "iPad Air 13 M2",
+    "image_url": "apple_ipad_air_13_m2_starlight.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 13 M2 in Starlight color",
+    "attributes": {
+      "color": "Starlight"
+    }
+  },
+  {
+    "name": "iPad Air 13 M3",
+    "slug": "ipad-air-13-m3",
+    "brand": "Apple",
+    "model": "iPad Air 13 M3",
+    "image_url": "apple_ipad_air_13_m3_blue.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 13 M3 in Blue color",
+    "attributes": {
+      "color": "Blue"
+    }
+  },
+  {
+    "name": "iPad Air 13 M3",
+    "slug": "ipad-air-13-m3",
+    "brand": "Apple",
+    "model": "iPad Air 13 M3",
+    "image_url": "apple_ipad_air_13_m3_purple.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 13 M3 in Purple color",
+    "attributes": {
+      "color": "Purple"
+    }
+  },
+  {
+    "name": "iPad Air 13 M3",
+    "slug": "ipad-air-13-m3",
+    "brand": "Apple",
+    "model": "iPad Air 13 M3",
+    "image_url": "apple_ipad_air_13_m3_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 13 M3 in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Air 13 M3",
+    "slug": "ipad-air-13-m3",
+    "brand": "Apple",
+    "model": "iPad Air 13 M3",
+    "image_url": "apple_ipad_air_13_m3_starlight.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 13 M3 in Starlight color",
+    "attributes": {
+      "color": "Starlight"
+    }
+  },
+  {
+    "name": "iPad Air 13 M4",
+    "slug": "ipad-air-13-m4",
+    "brand": "Apple",
+    "model": "iPad Air 13 M4",
+    "image_url": "apple_ipad_air_13_m4_blue.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 13 M4 in Blue color",
+    "attributes": {
+      "color": "Blue"
+    }
+  },
+  {
+    "name": "iPad Air 13 M4",
+    "slug": "ipad-air-13-m4",
+    "brand": "Apple",
+    "model": "iPad Air 13 M4",
+    "image_url": "apple_ipad_air_13_m4_purple.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 13 M4 in Purple color",
+    "attributes": {
+      "color": "Purple"
+    }
+  },
+  {
+    "name": "iPad Air 13 M4",
+    "slug": "ipad-air-13-m4",
+    "brand": "Apple",
+    "model": "iPad Air 13 M4",
+    "image_url": "apple_ipad_air_13_m4_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 13 M4 in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Air 13 M4",
+    "slug": "ipad-air-13-m4",
+    "brand": "Apple",
+    "model": "iPad Air 13 M4",
+    "image_url": "apple_ipad_air_13_m4_starlight.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 13 M4 in Starlight color",
+    "attributes": {
+      "color": "Starlight"
+    }
+  },
+  {
+    "name": "iPad Air 1st Gen",
+    "slug": "ipad-air-1st-gen",
+    "brand": "Apple",
+    "model": "iPad Air 1st Gen",
+    "image_url": "apple_ipad_air_1st_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 1st Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Air 1st Gen",
+    "slug": "ipad-air-1st-gen",
+    "brand": "Apple",
+    "model": "iPad Air 1st Gen",
+    "image_url": "apple_ipad_air_1st_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 1st Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Air 2",
+    "slug": "ipad-air-2",
+    "brand": "Apple",
+    "model": "iPad Air 2",
+    "image_url": "apple_ipad_air_2_gold.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 2 in Gold color",
+    "attributes": {
+      "color": "Gold"
+    }
+  },
+  {
+    "name": "iPad Air 2",
+    "slug": "ipad-air-2",
+    "brand": "Apple",
+    "model": "iPad Air 2",
+    "image_url": "apple_ipad_air_2_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 2 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Air 2",
+    "slug": "ipad-air-2",
+    "brand": "Apple",
+    "model": "iPad Air 2",
+    "image_url": "apple_ipad_air_2_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 2 in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Air 3rd Gen",
+    "slug": "ipad-air-3rd-gen",
+    "brand": "Apple",
+    "model": "iPad Air 3rd Gen",
+    "image_url": "apple_ipad_air_3rd_gen_gold.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 3rd Gen in Gold color",
+    "attributes": {
+      "color": "Gold"
+    }
+  },
+  {
+    "name": "iPad Air 3rd Gen",
+    "slug": "ipad-air-3rd-gen",
+    "brand": "Apple",
+    "model": "iPad Air 3rd Gen",
+    "image_url": "apple_ipad_air_3rd_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 3rd Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Air 3rd Gen",
+    "slug": "ipad-air-3rd-gen",
+    "brand": "Apple",
+    "model": "iPad Air 3rd Gen",
+    "image_url": "apple_ipad_air_3rd_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 3rd Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Air 4th Gen",
+    "slug": "ipad-air-4th-gen",
+    "brand": "Apple",
+    "model": "iPad Air 4th Gen",
+    "image_url": "apple_ipad_air_4th_gen_gold.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 4th Gen in Gold color",
+    "attributes": {
+      "color": "Gold"
+    }
+  },
+  {
+    "name": "iPad Air 4th Gen",
+    "slug": "ipad-air-4th-gen",
+    "brand": "Apple",
+    "model": "iPad Air 4th Gen",
+    "image_url": "apple_ipad_air_4th_gen_green.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 4th Gen in Green color",
+    "attributes": {
+      "color": "Green"
+    }
+  },
+  {
+    "name": "iPad Air 4th Gen",
+    "slug": "ipad-air-4th-gen",
+    "brand": "Apple",
+    "model": "iPad Air 4th Gen",
+    "image_url": "apple_ipad_air_4th_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 4th Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Air 4th Gen",
+    "slug": "ipad-air-4th-gen",
+    "brand": "Apple",
+    "model": "iPad Air 4th Gen",
+    "image_url": "apple_ipad_air_4th_gen_sky_blue.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 4th Gen in Sky Blue color",
+    "attributes": {
+      "color": "Sky Blue"
+    }
+  },
+  {
+    "name": "iPad Air 4th Gen",
+    "slug": "ipad-air-4th-gen",
+    "brand": "Apple",
+    "model": "iPad Air 4th Gen",
+    "image_url": "apple_ipad_air_4th_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 4th Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Air 5th Gen",
+    "slug": "ipad-air-5th-gen",
+    "brand": "Apple",
+    "model": "iPad Air 5th Gen",
+    "image_url": "apple_ipad_air_5th_gen_blue.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 5th Gen in Blue color",
+    "attributes": {
+      "color": "Blue"
+    }
+  },
+  {
+    "name": "iPad Air 5th Gen",
+    "slug": "ipad-air-5th-gen",
+    "brand": "Apple",
+    "model": "iPad Air 5th Gen",
+    "image_url": "apple_ipad_air_5th_gen_pink.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 5th Gen in Pink color",
+    "attributes": {
+      "color": "Pink"
+    }
+  },
+  {
+    "name": "iPad Air 5th Gen",
+    "slug": "ipad-air-5th-gen",
+    "brand": "Apple",
+    "model": "iPad Air 5th Gen",
+    "image_url": "apple_ipad_air_5th_gen_purple.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 5th Gen in Purple color",
+    "attributes": {
+      "color": "Purple"
+    }
+  },
+  {
+    "name": "iPad Air 5th Gen",
+    "slug": "ipad-air-5th-gen",
+    "brand": "Apple",
+    "model": "iPad Air 5th Gen",
+    "image_url": "apple_ipad_air_5th_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 5th Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Air 5th Gen",
+    "slug": "ipad-air-5th-gen",
+    "brand": "Apple",
+    "model": "iPad Air 5th Gen",
+    "image_url": "apple_ipad_air_5th_gen_starlight.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Air 5th Gen in Starlight color",
+    "attributes": {
+      "color": "Starlight"
+    }
+  },
+  {
+    "name": "iPad mini 2",
+    "slug": "ipad-mini-2",
+    "brand": "Apple",
+    "model": "iPad mini 2",
+    "image_url": "apple_ipad_mini_2_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad mini 2 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad mini 2",
+    "slug": "ipad-mini-2",
+    "brand": "Apple",
+    "model": "iPad mini 2",
+    "image_url": "apple_ipad_mini_2_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad mini 2 in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad mini 3",
+    "slug": "ipad-mini-3",
+    "brand": "Apple",
+    "model": "iPad mini 3",
+    "image_url": "apple_ipad_mini_3_gold.jpg",
+    "category": "iPad",
+    "description": "Apple iPad mini 3 in Gold color",
+    "attributes": {
+      "color": "Gold"
+    }
+  },
+  {
+    "name": "iPad mini 3",
+    "slug": "ipad-mini-3",
+    "brand": "Apple",
+    "model": "iPad mini 3",
+    "image_url": "apple_ipad_mini_3_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad mini 3 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad mini 3",
+    "slug": "ipad-mini-3",
+    "brand": "Apple",
+    "model": "iPad mini 3",
+    "image_url": "apple_ipad_mini_3_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad mini 3 in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad mini 4",
+    "slug": "ipad-mini-4",
+    "brand": "Apple",
+    "model": "iPad mini 4",
+    "image_url": "apple_ipad_mini_4_gold.png",
+    "category": "iPad",
+    "description": "Apple iPad mini 4 in Gold color",
+    "attributes": {
+      "color": "Gold"
+    }
+  },
+  {
+    "name": "iPad mini 4",
+    "slug": "ipad-mini-4",
+    "brand": "Apple",
+    "model": "iPad mini 4",
+    "image_url": "apple_ipad_mini_4_silver.png",
+    "category": "iPad",
+    "description": "Apple iPad mini 4 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad mini 4",
+    "slug": "ipad-mini-4",
+    "brand": "Apple",
+    "model": "iPad mini 4",
+    "image_url": "apple_ipad_mini_4_space_gray.png",
+    "category": "iPad",
+    "description": "Apple iPad mini 4 in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad mini 5th Gen",
+    "slug": "ipad-mini-5th-gen",
+    "brand": "Apple",
+    "model": "iPad mini 5th Gen",
+    "image_url": "apple_ipad_mini_5th_gen_gold.jpg",
+    "category": "iPad",
+    "description": "Apple iPad mini 5th Gen in Gold color",
+    "attributes": {
+      "color": "Gold"
+    }
+  },
+  {
+    "name": "iPad mini 5th Gen",
+    "slug": "ipad-mini-5th-gen",
+    "brand": "Apple",
+    "model": "iPad mini 5th Gen",
+    "image_url": "apple_ipad_mini_5th_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad mini 5th Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad mini 5th Gen",
+    "slug": "ipad-mini-5th-gen",
+    "brand": "Apple",
+    "model": "iPad mini 5th Gen",
+    "image_url": "apple_ipad_mini_5th_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad mini 5th Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad mini 6th Gen",
+    "slug": "ipad-mini-6th-gen",
+    "brand": "Apple",
+    "model": "iPad mini 6th Gen",
+    "image_url": "apple_ipad_mini_6th_gen_pink.jpg",
+    "category": "iPad",
+    "description": "Apple iPad mini 6th Gen in Pink color",
+    "attributes": {
+      "color": "Pink"
+    }
+  },
+  {
+    "name": "iPad mini 6th Gen",
+    "slug": "ipad-mini-6th-gen",
+    "brand": "Apple",
+    "model": "iPad mini 6th Gen",
+    "image_url": "apple_ipad_mini_6th_gen_purple.jpg",
+    "category": "iPad",
+    "description": "Apple iPad mini 6th Gen in Purple color",
+    "attributes": {
+      "color": "Purple"
+    }
+  },
+  {
+    "name": "iPad mini 6th Gen",
+    "slug": "ipad-mini-6th-gen",
+    "brand": "Apple",
+    "model": "iPad mini 6th Gen",
+    "image_url": "apple_ipad_mini_6th_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad mini 6th Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad mini 6th Gen",
+    "slug": "ipad-mini-6th-gen",
+    "brand": "Apple",
+    "model": "iPad mini 6th Gen",
+    "image_url": "apple_ipad_mini_6th_gen_starlight.jpg",
+    "category": "iPad",
+    "description": "Apple iPad mini 6th Gen in Starlight color",
+    "attributes": {
+      "color": "Starlight"
+    }
+  },
+  {
+    "name": "iPad mini A17 Pro",
+    "slug": "ipad-mini-a17-pro",
+    "brand": "Apple",
+    "model": "iPad mini A17 Pro",
+    "image_url": "apple_ipad_mini_a17_pro_blue.jpg",
+    "category": "iPad",
+    "description": "Apple iPad mini A17 Pro in Blue color",
+    "attributes": {
+      "color": "Blue"
+    }
+  },
+  {
+    "name": "iPad mini A17 Pro",
+    "slug": "ipad-mini-a17-pro",
+    "brand": "Apple",
+    "model": "iPad mini A17 Pro",
+    "image_url": "apple_ipad_mini_a17_pro_purple.jpg",
+    "category": "iPad",
+    "description": "Apple iPad mini A17 Pro in Purple color",
+    "attributes": {
+      "color": "Purple"
+    }
+  },
+  {
+    "name": "iPad mini A17 Pro",
+    "slug": "ipad-mini-a17-pro",
+    "brand": "Apple",
+    "model": "iPad mini A17 Pro",
+    "image_url": "apple_ipad_mini_a17_pro_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad mini A17 Pro in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad mini A17 Pro",
+    "slug": "ipad-mini-a17-pro",
+    "brand": "Apple",
+    "model": "iPad mini A17 Pro",
+    "image_url": "apple_ipad_mini_a17_pro_starlight.jpg",
+    "category": "iPad",
+    "description": "Apple iPad mini A17 Pro in Starlight color",
+    "attributes": {
+      "color": "Starlight"
+    }
+  },
+  {
+    "name": "iPad Pro 10.5",
+    "slug": "ipad-pro-10-5",
+    "brand": "Apple",
+    "model": "iPad Pro 10.5",
+    "image_url": "apple_ipad_pro_10_5_gold.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 10.5 in Gold color",
+    "attributes": {
+      "color": "Gold"
+    }
+  },
+  {
+    "name": "iPad Pro 10.5",
+    "slug": "ipad-pro-10-5",
+    "brand": "Apple",
+    "model": "iPad Pro 10.5",
+    "image_url": "apple_ipad_pro_10_5_rose_gold.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 10.5 in Rose Gold color",
+    "attributes": {
+      "color": "Rose Gold"
+    }
+  },
+  {
+    "name": "iPad Pro 10.5",
+    "slug": "ipad-pro-10-5",
+    "brand": "Apple",
+    "model": "iPad Pro 10.5",
+    "image_url": "apple_ipad_pro_10_5_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 10.5 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Pro 10.5",
+    "slug": "ipad-pro-10-5",
+    "brand": "Apple",
+    "model": "iPad Pro 10.5",
+    "image_url": "apple_ipad_pro_10_5_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 10.5 in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Pro 11 1st Gen",
+    "slug": "ipad-pro-11-1st-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 11 1st Gen",
+    "image_url": "apple_ipad_pro_11_1st_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 11 1st Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Pro 11 1st Gen",
+    "slug": "ipad-pro-11-1st-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 11 1st Gen",
+    "image_url": "apple_ipad_pro_11_1st_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 11 1st Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Pro 11 2nd Gen",
+    "slug": "ipad-pro-11-2nd-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 11 2nd Gen",
+    "image_url": "apple_ipad_pro_11_2nd_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 11 2nd Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Pro 11 2nd Gen",
+    "slug": "ipad-pro-11-2nd-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 11 2nd Gen",
+    "image_url": "apple_ipad_pro_11_2nd_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 11 2nd Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Pro 11 3rd Gen",
+    "slug": "ipad-pro-11-3rd-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 11 3rd Gen",
+    "image_url": "apple_ipad_pro_11_3rd_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 11 3rd Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Pro 11 3rd Gen",
+    "slug": "ipad-pro-11-3rd-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 11 3rd Gen",
+    "image_url": "apple_ipad_pro_11_3rd_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 11 3rd Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Pro 11 4th Gen",
+    "slug": "ipad-pro-11-4th-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 11 4th Gen",
+    "image_url": "apple_ipad_pro_11_4th_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 11 4th Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Pro 11 4th Gen",
+    "slug": "ipad-pro-11-4th-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 11 4th Gen",
+    "image_url": "apple_ipad_pro_11_4th_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 11 4th Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Pro 11 M4",
+    "slug": "ipad-pro-11-m4",
+    "brand": "Apple",
+    "model": "iPad Pro 11 M4",
+    "image_url": "apple_ipad_pro_11_m4_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 11 M4 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Pro 11 M4",
+    "slug": "ipad-pro-11-m4",
+    "brand": "Apple",
+    "model": "iPad Pro 11 M4",
+    "image_url": "apple_ipad_pro_11_m4_space_black.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 11 M4 in Space Black color",
+    "attributes": {
+      "color": "Space Black"
+    }
+  },
+  {
+    "name": "iPad Pro 12.9 1st Gen",
+    "slug": "ipad-pro-12-9-1st-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 12.9 1st Gen",
+    "image_url": "apple_ipad_pro_12_9_1st_gen_gold.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 12.9 1st Gen in Gold color",
+    "attributes": {
+      "color": "Gold"
+    }
+  },
+  {
+    "name": "iPad Pro 12.9 1st Gen",
+    "slug": "ipad-pro-12-9-1st-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 12.9 1st Gen",
+    "image_url": "apple_ipad_pro_12_9_1st_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 12.9 1st Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Pro 12.9 1st Gen",
+    "slug": "ipad-pro-12-9-1st-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 12.9 1st Gen",
+    "image_url": "apple_ipad_pro_12_9_1st_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 12.9 1st Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Pro 12.9 2ndgen",
+    "slug": "ipad-pro-12-9-2ndgen",
+    "brand": "Apple",
+    "model": "iPad Pro 12.9 2ndgen",
+    "image_url": "apple_ipad_pro_12_9_2ndgen_gold.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 12.9 2ndgen in Gold color",
+    "attributes": {
+      "color": "Gold"
+    }
+  },
+  {
+    "name": "iPad Pro 12.9 2ndgen",
+    "slug": "ipad-pro-12-9-2ndgen",
+    "brand": "Apple",
+    "model": "iPad Pro 12.9 2ndgen",
+    "image_url": "apple_ipad_pro_12_9_2ndgen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 12.9 2ndgen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Pro 12.9 2ndgen",
+    "slug": "ipad-pro-12-9-2ndgen",
+    "brand": "Apple",
+    "model": "iPad Pro 12.9 2ndgen",
+    "image_url": "apple_ipad_pro_12_9_2ndgen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 12.9 2ndgen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Pro 12.9 3rd Gen",
+    "slug": "ipad-pro-12-9-3rd-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 12.9 3rd Gen",
+    "image_url": "apple_ipad_pro_12_9_3rd_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 12.9 3rd Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Pro 12.9 3rd Gen",
+    "slug": "ipad-pro-12-9-3rd-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 12.9 3rd Gen",
+    "image_url": "apple_ipad_pro_12_9_3rd_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 12.9 3rd Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Pro 12.9 4th Gen",
+    "slug": "ipad-pro-12-9-4th-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 12.9 4th Gen",
+    "image_url": "apple_ipad_pro_12_9_4th_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 12.9 4th Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Pro 12.9 4th Gen",
+    "slug": "ipad-pro-12-9-4th-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 12.9 4th Gen",
+    "image_url": "apple_ipad_pro_12_9_4th_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 12.9 4th Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Pro 12.9 5th Gen",
+    "slug": "ipad-pro-12-9-5th-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 12.9 5th Gen",
+    "image_url": "apple_ipad_pro_12_9_5th_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 12.9 5th Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Pro 12.9 5th Gen",
+    "slug": "ipad-pro-12-9-5th-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 12.9 5th Gen",
+    "image_url": "apple_ipad_pro_12_9_5th_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 12.9 5th Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Pro 12.9 6th Gen",
+    "slug": "ipad-pro-12-9-6th-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 12.9 6th Gen",
+    "image_url": "apple_ipad_pro_12_9_6th_gen_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 12.9 6th Gen in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Pro 12.9 6th Gen",
+    "slug": "ipad-pro-12-9-6th-gen",
+    "brand": "Apple",
+    "model": "iPad Pro 12.9 6th Gen",
+    "image_url": "apple_ipad_pro_12_9_6th_gen_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 12.9 6th Gen in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "iPad Pro 13 M4",
+    "slug": "ipad-pro-13-m4",
+    "brand": "Apple",
+    "model": "iPad Pro 13 M4",
+    "image_url": "apple_ipad_pro_13_m4_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 13 M4 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Pro 13 M4",
+    "slug": "ipad-pro-13-m4",
+    "brand": "Apple",
+    "model": "iPad Pro 13 M4",
+    "image_url": "apple_ipad_pro_13_m4_space_black.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 13 M4 in Space Black color",
+    "attributes": {
+      "color": "Space Black"
+    }
+  },
+  {
+    "name": "iPad Pro 13 M5",
+    "slug": "ipad-pro-13-m5",
+    "brand": "Apple",
+    "model": "iPad Pro 13 M5",
+    "image_url": "apple_ipad_pro_13_m5_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 13 M5 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Pro 13 M5",
+    "slug": "ipad-pro-13-m5",
+    "brand": "Apple",
+    "model": "iPad Pro 13 M5",
+    "image_url": "apple_ipad_pro_13_m5_space_black.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 13 M5 in Space Black color",
+    "attributes": {
+      "color": "Space Black"
+    }
+  },
+  {
+    "name": "iPad Pro 9.7",
+    "slug": "ipad-pro-9-7",
+    "brand": "Apple",
+    "model": "iPad Pro 9.7",
+    "image_url": "apple_ipad_pro_9_7_gold.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 9.7 in Gold color",
+    "attributes": {
+      "color": "Gold"
+    }
+  },
+  {
+    "name": "iPad Pro 9.7",
+    "slug": "ipad-pro-9-7",
+    "brand": "Apple",
+    "model": "iPad Pro 9.7",
+    "image_url": "apple_ipad_pro_9_7_rose_gold.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 9.7 in Rose Gold color",
+    "attributes": {
+      "color": "Rose Gold"
+    }
+  },
+  {
+    "name": "iPad Pro 9.7",
+    "slug": "ipad-pro-9-7",
+    "brand": "Apple",
+    "model": "iPad Pro 9.7",
+    "image_url": "apple_ipad_pro_9_7_silver.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 9.7 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iPad Pro 9.7",
+    "slug": "ipad-pro-9-7",
+    "brand": "Apple",
+    "model": "iPad Pro 9.7",
+    "image_url": "apple_ipad_pro_9_7_space_gray.jpg",
+    "category": "iPad",
+    "description": "Apple iPad Pro 9.7 in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "name": "iMac 21.5 Retina 2017",
+    "slug": "imac-21-5-retina-2017",
+    "brand": "Apple",
+    "model": "iMac 21.5 Retina 2017",
+    "image_url": "apple_imac_21_5_retina_2017_silver.jpg",
+    "category": "iMac",
+    "description": "Apple iMac 21.5 Retina 2017 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iMac 21.5 Retina 2019",
+    "slug": "imac-21-5-retina-2019",
+    "brand": "Apple",
+    "model": "iMac 21.5 Retina 2019",
+    "image_url": "apple_imac_21_5_retina_2019_silver.jpg",
+    "category": "iMac",
+    "description": "Apple iMac 21.5 Retina 2019 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iMac 24",
+    "slug": "imac-24",
+    "brand": "Apple",
+    "model": "iMac 24",
+    "image_url": "apple_imac_24_blue.jpg",
+    "category": "iMac",
+    "description": "Apple iMac 24 in Blue color",
+    "attributes": {
+      "color": "Blue"
+    }
+  },
+  {
+    "name": "iMac 24",
+    "slug": "imac-24",
+    "brand": "Apple",
+    "model": "iMac 24",
+    "image_url": "apple_imac_24_green.jpg",
+    "category": "iMac",
+    "description": "Apple iMac 24 in Green color",
+    "attributes": {
+      "color": "Green"
+    }
+  },
+  {
+    "name": "iMac 24 M4",
+    "slug": "imac-24-m4",
+    "brand": "Apple",
+    "model": "iMac 24 M4",
+    "image_url": "apple_imac_24_m4_blue.jpg",
+    "category": "iMac",
+    "description": "Apple iMac 24 M4 in Blue color",
+    "attributes": {
+      "color": "Blue"
+    }
+  },
+  {
+    "name": "iMac 24 M4",
+    "slug": "imac-24-m4",
+    "brand": "Apple",
+    "model": "iMac 24 M4",
+    "image_url": "apple_imac_24_m4_green.jpg",
+    "category": "iMac",
+    "description": "Apple iMac 24 M4 in Green color",
+    "attributes": {
+      "color": "Green"
+    }
+  },
+  {
+    "name": "iMac 24 M4",
+    "slug": "imac-24-m4",
+    "brand": "Apple",
+    "model": "iMac 24 M4",
+    "image_url": "apple_imac_24_m4_orange.jpg",
+    "category": "iMac",
+    "description": "Apple iMac 24 M4 in Orange color",
+    "attributes": {
+      "color": "Orange"
+    }
+  },
+  {
+    "name": "iMac 24 M4",
+    "slug": "imac-24-m4",
+    "brand": "Apple",
+    "model": "iMac 24 M4",
+    "image_url": "apple_imac_24_m4_pink.jpg",
+    "category": "iMac",
+    "description": "Apple iMac 24 M4 in Pink color",
+    "attributes": {
+      "color": "Pink"
+    }
+  },
+  {
+    "name": "iMac 24 M4",
+    "slug": "imac-24-m4",
+    "brand": "Apple",
+    "model": "iMac 24 M4",
+    "image_url": "apple_imac_24_m4_purple.jpg",
+    "category": "iMac",
+    "description": "Apple iMac 24 M4 in Purple color",
+    "attributes": {
+      "color": "Purple"
+    }
+  },
+  {
+    "name": "iMac 24 M4",
+    "slug": "imac-24-m4",
+    "brand": "Apple",
+    "model": "iMac 24 M4",
+    "image_url": "apple_imac_24_m4_silver.jpg",
+    "category": "iMac",
+    "description": "Apple iMac 24 M4 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iMac 24 M4",
+    "slug": "imac-24-m4",
+    "brand": "Apple",
+    "model": "iMac 24 M4",
+    "image_url": "apple_imac_24_m4_yellow.jpg",
+    "category": "iMac",
+    "description": "Apple iMac 24 M4 in Yellow color",
+    "attributes": {
+      "color": "Yellow"
+    }
+  },
+  {
+    "name": "iMac 24",
+    "slug": "imac-24",
+    "brand": "Apple",
+    "model": "iMac 24",
+    "image_url": "apple_imac_24_orange.jpg",
+    "category": "iMac",
+    "description": "Apple iMac 24 in Orange color",
+    "attributes": {
+      "color": "Orange"
+    }
+  },
+  {
+    "name": "iMac 24",
+    "slug": "imac-24",
+    "brand": "Apple",
+    "model": "iMac 24",
+    "image_url": "apple_imac_24_pink.jpg",
+    "category": "iMac",
+    "description": "Apple iMac 24 in Pink color",
+    "attributes": {
+      "color": "Pink"
+    }
+  },
+  {
+    "name": "iMac 24",
+    "slug": "imac-24",
+    "brand": "Apple",
+    "model": "iMac 24",
+    "image_url": "apple_imac_24_purple.jpg",
+    "category": "iMac",
+    "description": "Apple iMac 24 in Purple color",
+    "attributes": {
+      "color": "Purple"
+    }
+  },
+  {
+    "name": "iMac 24",
+    "slug": "imac-24",
+    "brand": "Apple",
+    "model": "iMac 24",
+    "image_url": "apple_imac_24_silver.jpg",
+    "category": "iMac",
+    "description": "Apple iMac 24 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iMac 24",
+    "slug": "imac-24",
+    "brand": "Apple",
+    "model": "iMac 24",
+    "image_url": "apple_imac_24_yellow.jpg",
+    "category": "iMac",
+    "description": "Apple iMac 24 in Yellow color",
+    "attributes": {
+      "color": "Yellow"
+    }
+  },
+  {
+    "name": "iMac 27",
+    "slug": "imac-27",
+    "brand": "Apple",
+    "model": "iMac 27",
+    "image_url": "apple_imac_27_silver.jpg",
+    "category": "iMac",
+    "description": "Apple iMac 27 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "iMac Pro",
+    "slug": "imac-pro",
+    "brand": "Apple",
+    "model": "iMac Pro",
+    "image_url": "apple_imac_pro_space_gray.jpg",
+    "category": "iMac",
+    "description": "Apple iMac Pro in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "Mac mini M2",
+    "slug": "mac-mini-m2",
+    "brand": "Apple",
+    "model": "Mac mini M2",
+    "image_url": "apple_mac_mini_m2_silver.jpg",
+    "category": "Mac mini",
+    "description": "Apple Mac mini M2 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "Mac mini M4",
+    "slug": "mac-mini-m4",
+    "brand": "Apple",
+    "model": "Mac mini M4",
+    "image_url": "apple_mac_mini_m4_silver.jpg",
+    "category": "Mac mini",
+    "description": "Apple Mac mini M4 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "Mac mini",
+    "slug": "mac-mini",
+    "brand": "Apple",
+    "model": "Mac mini",
+    "image_url": "apple_mac_mini_silver.jpg",
+    "category": "Mac mini",
+    "description": "Apple Mac mini in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "Mac mini",
+    "slug": "mac-mini",
+    "brand": "Apple",
+    "model": "Mac mini",
+    "image_url": "apple_mac_mini_space_gray.jpg",
+    "category": "Mac mini",
+    "description": "Apple Mac mini in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "Mac Pro",
+    "slug": "mac-pro",
+    "brand": "Apple",
+    "model": "Mac Pro",
+    "image_url": "apple_mac_pro_silver.jpg",
+    "category": "Mac Pro",
+    "description": "Apple Mac Pro in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "Mac Studio",
+    "slug": "mac-studio",
+    "brand": "Apple",
+    "model": "Mac Studio",
+    "image_url": "apple_mac_studio_silver.jpg",
+    "category": "Mac Studio",
+    "description": "Apple Mac Studio in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "Mac Studio M4",
+    "slug": "mac-studio-m4",
+    "brand": "Apple",
+    "model": "Mac Studio M4",
+    "image_url": "apple_mac_studio_silver_m4.jpg",
+    "category": "Mac Studio",
+    "description": "Apple Mac Studio M4 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "MacBook Air 2017",
+    "slug": "macbook-air-2017",
+    "brand": "Apple",
+    "model": "MacBook Air 2017",
+    "image_url": "apple_macbook_air_2017_silver.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air 2017 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "MacBook Air M5 15",
+    "slug": "macbook-air-m5-15",
+    "brand": "Apple",
+    "model": "MacBook Air M5 15",
+    "image_url": "apple_macbook_air_m5_15_midnight.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air M5 15 in Midnight color",
+    "attributes": {
+      "color": "Midnight"
+    }
+  },
+  {
+    "name": "MacBook Air M5 15",
+    "slug": "macbook-air-m5-15",
+    "brand": "Apple",
+    "model": "MacBook Air M5 15",
+    "image_url": "apple_macbook_air_m5_15_silver.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air M5 15 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "MacBook Air M5 15",
+    "slug": "macbook-air-m5-15",
+    "brand": "Apple",
+    "model": "MacBook Air M5 15",
+    "image_url": "apple_macbook_air_m5_15_sky_blue.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air M5 15 in Sky Blue color",
+    "attributes": {
+      "color": "Sky Blue"
+    }
+  },
+  {
+    "name": "MacBook Air M5 15",
+    "slug": "macbook-air-m5-15",
+    "brand": "Apple",
+    "model": "MacBook Air M5 15",
+    "image_url": "apple_macbook_air_m5_15_starlight.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air M5 15 in Starlight color",
+    "attributes": {
+      "color": "Starlight"
+    }
+  },
+  {
+    "name": "MacBook Air M5",
+    "slug": "macbook-air-m5",
+    "brand": "Apple",
+    "model": "MacBook Air M5",
+    "image_url": "apple_macbook_air_m5_midnight.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air M5 in Midnight color",
+    "attributes": {
+      "color": "Midnight"
+    }
+  },
+  {
+    "name": "MacBook Air M5",
+    "slug": "macbook-air-m5",
+    "brand": "Apple",
+    "model": "MacBook Air M5",
+    "image_url": "apple_macbook_air_m5_silver.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air M5 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "MacBook Air M5",
+    "slug": "macbook-air-m5",
+    "brand": "Apple",
+    "model": "MacBook Air M5",
+    "image_url": "apple_macbook_air_m5_sky_blue.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air M5 in Sky Blue color",
+    "attributes": {
+      "color": "Sky Blue"
+    }
+  },
+  {
+    "name": "MacBook Air M5",
+    "slug": "macbook-air-m5",
+    "brand": "Apple",
+    "model": "MacBook Air M5",
+    "image_url": "apple_macbook_air_m5_starlight.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air M5 in Starlight color",
+    "attributes": {
+      "color": "Starlight"
+    }
+  },
+  {
+    "name": "MacBook Air MX 15",
+    "slug": "macbook-air-mx-15",
+    "brand": "Apple",
+    "model": "MacBook Air MX 15",
+    "image_url": "apple_macbook_air_mx_15_midnight.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air MX 15 in Midnight color",
+    "attributes": {
+      "color": "Midnight"
+    }
+  },
+  {
+    "name": "MacBook Air MX 15",
+    "slug": "macbook-air-mx-15",
+    "brand": "Apple",
+    "model": "MacBook Air MX 15",
+    "image_url": "apple_macbook_air_mx_15_silver.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air MX 15 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "MacBook Air MX 15",
+    "slug": "macbook-air-mx-15",
+    "brand": "Apple",
+    "model": "MacBook Air MX 15",
+    "image_url": "apple_macbook_air_mx_15_sky_blue.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air MX 15 in Sky Blue color",
+    "attributes": {
+      "color": "Sky Blue"
+    }
+  },
+  {
+    "name": "MacBook Air MX 15",
+    "slug": "macbook-air-mx-15",
+    "brand": "Apple",
+    "model": "MacBook Air MX 15",
+    "image_url": "apple_macbook_air_mx_15_space_gray.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air MX 15 in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "MacBook Air MX 15",
+    "slug": "macbook-air-mx-15",
+    "brand": "Apple",
+    "model": "MacBook Air MX 15",
+    "image_url": "apple_macbook_air_mx_15_starlight.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air MX 15 in Starlight color",
+    "attributes": {
+      "color": "Starlight"
+    }
+  },
+  {
+    "name": "MacBook Air MX",
+    "slug": "macbook-air-mx",
+    "brand": "Apple",
+    "model": "MacBook Air MX",
+    "image_url": "apple_macbook_air_mx_midnight.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air MX in Midnight color",
+    "attributes": {
+      "color": "Midnight"
+    }
+  },
+  {
+    "name": "MacBook Air MX",
+    "slug": "macbook-air-mx",
+    "brand": "Apple",
+    "model": "MacBook Air MX",
+    "image_url": "apple_macbook_air_mx_silver.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air MX in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "MacBook Air MX",
+    "slug": "macbook-air-mx",
+    "brand": "Apple",
+    "model": "MacBook Air MX",
+    "image_url": "apple_macbook_air_mx_sky_blue.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air MX in Sky Blue color",
+    "attributes": {
+      "color": "Sky Blue"
+    }
+  },
+  {
+    "name": "MacBook Air MX",
+    "slug": "macbook-air-mx",
+    "brand": "Apple",
+    "model": "MacBook Air MX",
+    "image_url": "apple_macbook_air_mx_space_gray.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air MX in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "MacBook Air MX",
+    "slug": "macbook-air-mx",
+    "brand": "Apple",
+    "model": "MacBook Air MX",
+    "image_url": "apple_macbook_air_mx_starlight.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air MX in Starlight color",
+    "attributes": {
+      "color": "Starlight"
+    }
+  },
+  {
+    "name": "MacBook Air Retina 2025",
+    "slug": "macbook-air-retina-2025",
+    "brand": "Apple",
+    "model": "MacBook Air Retina 2025",
+    "image_url": "apple_macbook_air_retina_2025_gold.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air Retina 2025 in Gold color",
+    "attributes": {
+      "color": "Gold"
+    }
+  },
+  {
+    "name": "MacBook Air Retina 2025",
+    "slug": "macbook-air-retina-2025",
+    "brand": "Apple",
+    "model": "MacBook Air Retina 2025",
+    "image_url": "apple_macbook_air_retina_2025_silver.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air Retina 2025 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "MacBook Air Retina 2025",
+    "slug": "macbook-air-retina-2025",
+    "brand": "Apple",
+    "model": "MacBook Air Retina 2025",
+    "image_url": "apple_macbook_air_retina_2025_space_gray.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air Retina 2025 in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "MacBook Air Retina",
+    "slug": "macbook-air-retina",
+    "brand": "Apple",
+    "model": "MacBook Air Retina",
+    "image_url": "apple_macbook_air_retina_gold.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air Retina in Gold color",
+    "attributes": {
+      "color": "Gold"
+    }
+  },
+  {
+    "name": "MacBook Air Retina",
+    "slug": "macbook-air-retina",
+    "brand": "Apple",
+    "model": "MacBook Air Retina",
+    "image_url": "apple_macbook_air_retina_silver.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air Retina in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "MacBook Air Retina",
+    "slug": "macbook-air-retina",
+    "brand": "Apple",
+    "model": "MacBook Air Retina",
+    "image_url": "apple_macbook_air_retina_space_gray.jpg",
+    "category": "MacBook Air",
+    "description": "Apple MacBook Air Retina in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "MacBook Neo A18",
+    "slug": "macbook-neo-a18",
+    "brand": "Apple",
+    "model": "MacBook Neo A18",
+    "image_url": "apple_macbook_neo_a18_blush.jpg",
+    "category": "Macbook Neo",
+    "description": "Apple MacBook Neo A18 in Blush color",
+    "attributes": {
+      "color": "Blush"
+    }
+  },
+  {
+    "name": "MacBook Neo A18",
+    "slug": "macbook-neo-a18",
+    "brand": "Apple",
+    "model": "MacBook Neo A18",
+    "image_url": "apple_macbook_neo_a18_citrus.jpg",
+    "category": "Macbook Neo",
+    "description": "Apple MacBook Neo A18 in Citrus color",
+    "attributes": {
+      "color": "Citrus"
+    }
+  },
+  {
+    "name": "MacBook Neo A18",
+    "slug": "macbook-neo-a18",
+    "brand": "Apple",
+    "model": "MacBook Neo A18",
+    "image_url": "apple_macbook_neo_a18_indigo.jpg",
+    "category": "Macbook Neo",
+    "description": "Apple MacBook Neo A18 in Indigo color",
+    "attributes": {
+      "color": "Indigo"
+    }
+  },
+  {
+    "name": "MacBook Neo A18",
+    "slug": "macbook-neo-a18",
+    "brand": "Apple",
+    "model": "MacBook Neo A18",
+    "image_url": "apple_macbook_neo_a18_silver.jpg",
+    "category": "Macbook Neo",
+    "description": "Apple MacBook Neo A18 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "MacBook Pro 13",
+    "slug": "macbook-pro-13",
+    "brand": "Apple",
+    "model": "MacBook Pro 13",
+    "image_url": "apple_macbook_pro_13_silver.jpg",
+    "category": "MacBook Pro",
+    "description": "Apple MacBook Pro 13 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "MacBook Pro 13",
+    "slug": "macbook-pro-13",
+    "brand": "Apple",
+    "model": "MacBook Pro 13",
+    "image_url": "apple_macbook_pro_13_space_gray.jpg",
+    "category": "MacBook Pro",
+    "description": "Apple MacBook Pro 13 in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "MacBook Pro 13 Two Ports",
+    "slug": "macbook-pro-13-two-ports",
+    "brand": "Apple",
+    "model": "MacBook Pro 13 Two Ports",
+    "image_url": "apple_macbook_pro_13_two_ports_silver.jpg",
+    "category": "MacBook Pro",
+    "description": "Apple MacBook Pro 13 Two Ports in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "MacBook Pro 13 Two Ports",
+    "slug": "macbook-pro-13-two-ports",
+    "brand": "Apple",
+    "model": "MacBook Pro 13 Two Ports",
+    "image_url": "apple_macbook_pro_13_two_ports_space_gray.jpg",
+    "category": "MacBook Pro",
+    "description": "Apple MacBook Pro 13 Two Ports in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "MacBook Pro 14",
+    "slug": "macbook-pro-14",
+    "brand": "Apple",
+    "model": "MacBook Pro 14",
+    "image_url": "apple_macbook_pro_14_silver.jpg",
+    "category": "MacBook Pro",
+    "description": "Apple MacBook Pro 14 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "MacBook Pro 14",
+    "slug": "macbook-pro-14",
+    "brand": "Apple",
+    "model": "MacBook Pro 14",
+    "image_url": "apple_macbook_pro_14_space_black.jpg",
+    "category": "MacBook Pro",
+    "description": "Apple MacBook Pro 14 in Space Black color",
+    "attributes": {
+      "color": "Space Black"
+    }
+  },
+  {
+    "name": "MacBook Pro 14",
+    "slug": "macbook-pro-14",
+    "brand": "Apple",
+    "model": "MacBook Pro 14",
+    "image_url": "apple_macbook_pro_14_space_gray.jpg",
+    "category": "MacBook Pro",
+    "description": "Apple MacBook Pro 14 in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "MacBook Pro 16",
+    "slug": "macbook-pro-16",
+    "brand": "Apple",
+    "model": "MacBook Pro 16",
+    "image_url": "apple_macbook_pro_16_silver.jpg",
+    "category": "MacBook Pro",
+    "description": "Apple MacBook Pro 16 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "MacBook Pro 16",
+    "slug": "macbook-pro-16",
+    "brand": "Apple",
+    "model": "MacBook Pro 16",
+    "image_url": "apple_macbook_pro_16_space_black.jpg",
+    "category": "MacBook Pro",
+    "description": "Apple MacBook Pro 16 in Space Black color",
+    "attributes": {
+      "color": "Space Black"
+    }
+  },
+  {
+    "name": "MacBook Pro 16",
+    "slug": "macbook-pro-16",
+    "brand": "Apple",
+    "model": "MacBook Pro 16",
+    "image_url": "apple_macbook_pro_16_space_gray.jpg",
+    "category": "MacBook Pro",
+    "description": "Apple MacBook Pro 16 in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "MacBook Pro 16 Touch",
+    "slug": "macbook-pro-16-touch",
+    "brand": "Apple",
+    "model": "MacBook Pro 16 Touch",
+    "image_url": "apple_macbook_pro_16_touch_silver.jpg",
+    "category": "MacBook Pro",
+    "description": "Apple MacBook Pro 16 Touch in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "MacBook Pro 16 Touch",
+    "slug": "macbook-pro-16-touch",
+    "brand": "Apple",
+    "model": "MacBook Pro 16 Touch",
+    "image_url": "apple_macbook_pro_16_touch_space_gray.jpg",
+    "category": "MacBook Pro",
+    "description": "Apple MacBook Pro 16 Touch in Space Gray color",
+    "attributes": {
+      "color": "Space Gray"
+    }
+  },
+  {
+    "name": "MacBook Pro M5 14",
+    "slug": "macbook-pro-m5-14",
+    "brand": "Apple",
+    "model": "MacBook Pro M5 14",
+    "image_url": "apple_macbook_pro_m5_14_silver.jpg",
+    "category": "MacBook Pro",
+    "description": "Apple MacBook Pro M5 14 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "MacBook Pro M5 14",
+    "slug": "macbook-pro-m5-14",
+    "brand": "Apple",
+    "model": "MacBook Pro M5 14",
+    "image_url": "apple_macbook_pro_m5_14_space_black.jpg",
+    "category": "MacBook Pro",
+    "description": "Apple MacBook Pro M5 14 in Space Black color",
+    "attributes": {
+      "color": "Space Black"
+    }
+  },
+  {
+    "name": "MacBook Pro M5 16",
+    "slug": "macbook-pro-m5-16",
+    "brand": "Apple",
+    "model": "MacBook Pro M5 16",
+    "image_url": "apple_macbook_pro_m5_16_silver.jpg",
+    "category": "MacBook Pro",
+    "description": "Apple MacBook Pro M5 16 in Silver color",
+    "attributes": {
+      "color": "Silver"
+    }
+  },
+  {
+    "name": "MacBook Pro M5 16",
+    "slug": "macbook-pro-m5-16",
+    "brand": "Apple",
+    "model": "MacBook Pro M5 16",
+    "image_url": "apple_macbook_pro_m5_16_space_black.jpg",
+    "category": "MacBook Pro",
+    "description": "Apple MacBook Pro M5 16 in Space Black color",
+    "attributes": {
+      "color": "Space Black"
+    }
+  }
+]
